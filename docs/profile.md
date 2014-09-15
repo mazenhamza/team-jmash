@@ -23,9 +23,9 @@ John "The Southern Dandy" O'Rourke
 ---------------------------------
 
 
-Herbert "Hannibal" Parks III
+Herbert "Hannibal" Perks III
 ----------------------------
-
+Herbert is a CS Senior whose interested in software engineering. He is currently a Double degree with a B.A in Psychology. he has taken CS187, CS220, CS250, CS311, CS240, CS446, and CS390CG, he is currently taking, CS230,CS320,CS383. Some of the Non CS courses include Psych 380, and psych 330. He cannot wait to get started on BitBot.
 
 Adam Power, M.D.
 ----------------
