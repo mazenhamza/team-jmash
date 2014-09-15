@@ -34,7 +34,7 @@ Adam is a CS Junior who is interested in Computer Systems and Networking.  He al
 
 Mazen "Dutch" Hamza
 -------------------
-
+Mazen is a CS Senior with a subtrack in Software Engineering.  He is currently a project manager for one of the teams in CS 320 and he is also taking CS325 (Usability).  CS courses he has taken in the past are CS187, CS220, CS230, CS240, CS250, CS445 and CS521.
 
 Rev. Sean McGrath
 -----------------
