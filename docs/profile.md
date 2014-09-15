@@ -38,6 +38,7 @@ Mazen "Dutch" Hamza
 
 Rev. Sean McGrath
 -----------------
+Sean is a Junior Physics Major and Computer Science Minor who is passionate about science, software, and alliteration. He has taken CS 121 and 187, and is currently enrolled in CS 230, as well as 326. His Non-CS courses include Classical Mechanics, Quantum Mechanics, and an independent study in Computational Quantum Dynamics. He is excited about BitBot and its potential to make both himself and his classmates a lot of money.
 
 
 Steve "No nickname" Bourget
