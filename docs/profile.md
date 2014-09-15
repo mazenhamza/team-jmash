@@ -21,7 +21,7 @@ Who are Team JMASH?
 
 John "The Southern Dandy" O'Rourke
 ---------------------------------
-
+John is a CS Junior who is interested in Artificial Intelligence.  BitBot is his brainchild and is based off of an AI algorithm he wrote over the summer.  He has taken all of the basic CS courses, as well as CS377, CS383, CS403, and CS585.  Two non-CS classes he has taken and deeply enjoyed are Linguistics 201 (tremendously useful for natural language processing and understanding how words work) and Math 233 (numbers are cool).
 
 Herbert "Hannibal" Perks III
 ----------------------------
