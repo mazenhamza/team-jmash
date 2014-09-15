@@ -43,4 +43,4 @@ Sean is a Junior Physics Major and Computer Science Minor who is passionate abou
 
 Steve "No nickname" Bourget
 ---------------------------
-Steve is a CS Senior focusing in software development. He has taken CS121, CS 181, CS220, CS230, CS240, CS250, CS311, CS320, CS 383, CS445, CS453, and is currently taking CS326, CS305, and CS 521. He spends half of his free time playing ping pong, He is very excited about all the money that BitBot will be making him.
+Steve is a CS Senior focusing in software development. He has taken CS121, CS 181, CS220, CS230, CS240, CS250, CS311, CS320, CS383, CS445, CS453, and is currently taking CS326, CS305, and CS 521. He spends half of his free time playing ping pong, and the other half thinking about all the money that BitBot will be making him.
